@@ -16,7 +16,7 @@ Clone the repository, then do an npm init and npm i to install dependancies. Ser
 ## Usage
 This is what it will look like on your device. 
 
-[Screencastify](https://watch.screencastify.com/v/sod6da09IHJRM0HxAtkL)
+[Screencastify](https://drive.google.com/file/d/1V921qvd6DalzzAHFB9HAhPzEd7B-QJmu/view)
 
 ## License 
 N/A
